@@ -1,0 +1,18 @@
+User A Feedback:
+- Recommended 5 articles.
+- Found 4 relevant and engaging.
+- Suggested including more technology-related articles.
+
+User B Feedback:
+- Only 2 of the 5 articles matched interests.
+- Uninterested in political content.
+- Would prefer filtering by recency as well.
+
+User C Feedback:
+- Liked the personalization.
+- Recommended articles covered preferred categories: science and health.
+- Suggest improvement in keyword matching (some articles felt off-topic).
+
+General Notes:
+- Consider adding a feedback mechanism to refine user profiles.
+- Future improvement: include article publish date in ranking.
